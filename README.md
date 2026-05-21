@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Orkun Kocatürk
 
 **Senior Software Developer | Backend & DevOps Engineer | Indie SaaS & Mobile App Builder**  
-[LinkedIn](https://www.linkedin.com/in/orkunk/) | [Email](mailto:orkunkocaturk@gmail.com) | [GatewayLabs](https://gatewaylabs.net)
+[LinkedIn](https://www.linkedin.com/in/orkunk/) | [GatewayLabs](https://gatewaylabs.net) | [SaaS & Business Email](mailto:orkun@gatewaylabs.net) | [Apps & Games Email](mailto:info@noctua.design)
 
 ---
 
@@ -14,7 +14,7 @@ I have worked on large-scale systems, including web services handling **10+ mill
 In addition to my enterprise software background, I am actively building independent products, including:
 
 - **GatewayLabs** — SaaS tools for configuration diff, operational visibility, and DevOps intelligence
-- **UmbraPlay / Noctua Arcade** — mobile arcade games and casual game experiments
+- **UmbraPlay / Noctua Arcade** — mobile arcade games and casual game experiments under Noctua Design
 - AI-assisted tools, automation workflows, and developer productivity projects
 
 I enjoy transforming real operational problems into practical, usable software products.
@@ -98,7 +98,8 @@ Areas of focus:
 - Alerting workflows
 - DevOps intelligence
 
-Website: [gatewaylabs.net](https://gatewaylabs.net)
+Website: [gatewaylabs.net](https://gatewaylabs.net)  
+SaaS & Business Contact: [orkun@gatewaylabs.net](mailto:orkun@gatewaylabs.net)
 
 ---
 
@@ -112,6 +113,8 @@ Focus areas:
 - Daily rewards and achievements
 - Multi-game hub architecture
 - Google Play publishing workflow
+
+Apps & Games Contact: [info@noctua.design](mailto:info@noctua.design)
 
 ---
 
@@ -142,7 +145,8 @@ Focus areas:
 ## 🌐 Let's Connect
 
 - LinkedIn: [linkedin.com/in/orkunk](https://www.linkedin.com/in/orkunk/)
-- Email: [orkunkocaturk@gmail.com](mailto:orkunkocaturk@gmail.com)
+- SaaS & Business: [orkun@gatewaylabs.net](mailto:orkun@gatewaylabs.net)
+- Apps & Games / Noctua Design: [info@noctua.design](mailto:info@noctua.design)
 - Website: [gatewaylabs.net](https://gatewaylabs.net)
 
 ---
