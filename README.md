@@ -1,156 +1,112 @@
-# 👋 Hi, I'm Orkun Kocatürk
+# Hi, I'm Orkun Kocatürk 👋
 
-**Senior Software Developer | Backend & DevOps Engineer | Indie SaaS & Mobile App Builder**  
-[LinkedIn](https://www.linkedin.com/in/orkunk/) | [GatewayLabs](https://gatewaylabs.net) | [SaaS & Business Email](mailto:orkun@gatewaylabs.net) | [Apps & Games Email](mailto:info@noctua.design)
+**Senior Software Developer · Product & Platform Engineer · Indie Builder**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Orkun_Kocaturk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orkunk/)
+[![GatewayLabs](https://img.shields.io/badge/GatewayLabs-Developer_Tools-111827?style=flat-square)](https://gatewaylabs.net)
+[![Noctua Design](https://img.shields.io/badge/Noctua_Design-Games_%26_Apps-6D28D9?style=flat-square)](https://noctua.design)
 
-## 🚀 About Me
+I turn complex operational and product problems into software that can be tested,
+deployed, and maintained. With 12+ years of experience, I have worked across enterprise
+backends, API platforms, integrations, observability, applied AI, and
+cross-platform product development—including services handling more than
+**10 million requests per day**.
 
-I am a software developer with 12+ years of professional experience building enterprise applications, API platforms, integrations, and production-grade web services.
+Today I build products under two independent initiatives:
 
-I have worked on large-scale systems, including web services handling **10+ million daily requests**, enterprise integrations, reporting platforms, GIS-based systems, API gateway operations, and DevOps-oriented deployment pipelines.
+- **[GatewayLabs](https://gatewaylabs.net)** — local-first developer tools and
+  operational intelligence for API, platform, DevOps, and SRE teams.
+- **[Noctua Design](https://noctua.design)** — mobile games, interactive worlds,
+  and release-ready app experiences.
 
-In addition to my enterprise software background, I am actively building independent products, including:
+## Shipping now
 
-- **GatewayLabs** — SaaS tools for configuration diff, operational visibility, and DevOps intelligence
-- **UmbraPlay / Noctua Arcade** — mobile arcade games and casual game experiments under Noctua Design
-- AI-assisted tools, automation workflows, and developer productivity projects
+| Product | What it does | Availability |
+| --- | --- | --- |
+| **[Specfold](https://gatewaylabs.net/specfold)** | Local-first desktop API collection studio for OpenAPI, Swagger, Postman, Insomnia, HAR, `.http`, and cURL workflows. | **[Open source](https://github.com/Gatewaylabsnet/specfold)** · **[v1.9.0 for Windows, macOS, and Linux](https://github.com/Gatewaylabsnet/specfold/releases/tag/v1.9.0)** |
+| **[GatewayLabs Signal](https://gatewaylabs.net/signal)** | Turns logs, deploys, configuration, and local evidence into clearer incident findings for DevOps, SRE, and platform teams. | Productized workflow |
+| **[GatewayLabs ConfigDiff](https://gatewaylabs.net/configdiff)** | Detects and explains configuration drift between production and non-production environments. | **[Public companion repository](https://github.com/Orkkoc/gatewaylabs-configdiff)** |
+| **[Way of the Night: Idle Hunter](https://play.google.com/store/apps/details?id=design.noctua.wonidle)** | Android-first idle RPG set in a dark urban-fantasy version of modern Turkey. | **Live on Google Play** |
+| **[Remil Ritual: Geomancy](https://play.google.com/store/apps/details?id=design.noctua.remil)** | A modern mobile experience built around the traditional 16-position geomancy tableau. | **Live on Google Play** |
+| **[Block Rush](https://play.google.com/store/apps/details?id=com.orkun.blockrush)** | A focused mobile block-puzzle game built for quick sessions, clean feedback, and instant restarts. | **Live on Google Play** |
+| **[Umbra Play](https://play.google.com/store/apps/details?id=design.noctua.zyncade)** | A compact mobile arcade and puzzle collection with multiple replayable game loops. | **Live on Google Play** |
 
-I enjoy transforming real operational problems into practical, usable software products.
+## Selected product work
 
----
+### Applied AI and operational intelligence
 
-## 🧠 Current Focus
+- **RetinaScope AI** — a research-stage retinal imaging workspace combining a
+  React interface, .NET 8 API, FastAPI/OpenCV inference services, PostgreSQL,
+  audit trails, and human-controlled review gates. It is designed as clinical
+  decision support research, not as an autonomous diagnostic system.
+- **Workplace Risk Intelligence** — a multilingual React/FastAPI product for
+  evidence intake, relationship graph analysis, workflow signals, case triage,
+  model governance, and human review.
+- **Signal Incident Clarity** — a structured delivery flow that converts
+  operational evidence into reproducible, decision-ready incident outputs.
 
-- Building lightweight B2B SaaS products for DevOps and infrastructure teams
-- API gateway monitoring, log analysis, and configuration drift detection
-- .NET / ASP.NET Core backend development
-- PostgreSQL, Elasticsearch, and production observability
-- Docker-based deployment workflows
-- Flutter mobile apps and casual game publishing
-- AI-assisted development workflows with tools like Codex and local automation agents
+### Games and interactive products
 
----
+- **[Umbra Play](https://play.google.com/store/apps/details?id=design.noctua.zyncade)**
+  — a live Flutter arcade hub with multiple branded Android flavors, shared
+  progression, store systems, and repeatable release tooling.
+- **[Block Rush](https://play.google.com/store/apps/details?id=com.orkun.blockrush)**
+  — a live mobile block-puzzle experience with short-session progression,
+  cosmetics, consent, advertising, and store foundations.
+- **Pulse Bounce** — a Flutter + Flame momentum platformer with a 60-level,
+  JSON-driven campaign.
+- **Way of Apep** — a 60-level triangle-fold puzzle game with automated
+  shortest-path validation for level solutions.
+- **Way of the Night** — a Godot 2.5D action vertical slice set in modern
+  Ankara and inspired by Turkish myth.
 
-## 🛠️ Technologies & Tools
+Most active commercial product repositories remain private while they move
+through product, security, compliance, and store-release work. Public product
+pages and downloadable releases are linked above.
 
-### Languages & Frameworks
-- C#
-- .NET / .NET Core / ASP.NET Core
-- SQL
-- Python
-- JavaScript / TypeScript
-- Node.js
-- Angular
-- React
-- Vue.js
-- PHP
-- Flutter / Dart
+## Engineering focus
 
-### Databases & Search
-- Microsoft SQL Server
-- PostgreSQL
-- MySQL
-- Elasticsearch
-- Logstash
+| Area | Technologies and practices |
+| --- | --- |
+| **Backend & platforms** | C#, .NET / ASP.NET Core, Python, FastAPI, REST/SOAP APIs, authentication, integrations |
+| **Frontend & mobile** | React, TypeScript, Flutter, Dart, Flame, Godot, Unity |
+| **Data & search** | PostgreSQL, SQL Server, MySQL, Elasticsearch, Logstash, graph and image-processing workflows |
+| **Delivery & operations** | Docker, Docker Compose, Caddy, IIS, GitHub Actions, Azure DevOps, GitOps, Linux deployments |
+| **Production quality** | Automated tests, release preflights, dependency audits, immutable deployments, smoke checks, observability, rollback planning |
+| **Responsible AI** | Human-in-the-loop decisions, auditability, model governance, explicit research and clinical safety boundaries |
 
-### DevOps & Infrastructure
-- Docker
-- Docker Compose
-- IIS
-- Caddy
-- CI/CD pipelines
-- Azure DevOps Server
-- Git / GitHub
-- GitOps practices
-- Linux server deployment
+## How I build
 
-### Enterprise & Integration
-- API Gateway platforms
-- REST / SOAP services
-- Microservices
-- Authentication & authorization flows
-- Logging and monitoring
-- GIS integrations
-- ArcGIS-based systems
+- Start with a real operational or user problem and define a measurable outcome.
+- Keep secrets, signing material, and production credentials outside source control.
+- Make analyze, test, build, security, and release-readiness checks repeatable in CI.
+- Treat deployment, privacy, consent, billing, observability, and recovery as part
+  of the product rather than post-launch chores.
+- Prefer small, reviewable delivery boundaries and evidence-backed iteration.
 
-### Game & Mobile Development
-- Flutter
-- Unity3D
-- Google Play Console
-- AdMob
-- Mobile game retention and monetization experiments
+## Public code
 
----
+- **[Specfold](https://github.com/Gatewaylabsnet/specfold)** — cross-platform,
+  local-first API collection studio.
+- **[GatewayLabs ConfigDiff](https://github.com/Orkkoc/gatewaylabs-configdiff)** —
+  configuration drift automation and operational guidance.
+- **[AzureDevOpsScripts](https://github.com/Orkkoc/AzureDevOpsScripts)** — utilities
+  for Azure DevOps project workflows.
+- **[ImplementMetarTaf](https://github.com/Orkkoc/ImplementMetarTaf)** — scheduled
+  METAR/TAF ingestion using Hangfire.
+- **[JsonToDB](https://github.com/Orkkoc/JsonToDB)** — JSON aggregation and SQL
+  insert generation tooling.
 
-## 🌱 Projects & Product Work
+## Let's connect
 
-### GatewayLabs
-A growing SaaS initiative focused on helping teams understand configuration changes, operational drift, and infrastructure behavior.
+I am interested in backend and platform engineering, developer tools, B2B SaaS,
+DevOps automation, applied AI, and independent product collaborations.
 
-Areas of focus:
-
-- Configuration diff tracking
-- Environment comparison
-- Log analysis
-- Operational reporting
-- Alerting workflows
-- DevOps intelligence
-
-Website: [gatewaylabs.net](https://gatewaylabs.net)  
-SaaS & Business Contact: [orkun@gatewaylabs.net](mailto:orkun@gatewaylabs.net)
-
----
-
-### UmbraPlay / Noctua Arcade
-A mobile arcade hub and casual game ecosystem focused on short-session gameplay, shared progression, unlock systems, and mobile game retention.
-
-Focus areas:
-
-- Mobile arcade game design
-- Rewarded ads and monetization
-- Daily rewards and achievements
-- Multi-game hub architecture
-- Google Play publishing workflow
-
-Apps & Games Contact: [info@noctua.design](mailto:info@noctua.design)
+- **LinkedIn:** [linkedin.com/in/orkunk](https://www.linkedin.com/in/orkunk/)
+- **GatewayLabs / business:** [orkun@gatewaylabs.net](mailto:orkun@gatewaylabs.net)
+- **Noctua Design / games:** [info@noctua.design](mailto:info@noctua.design)
+- **Noctua Design video:** [youtube.com/@NoctuaDesign](https://www.youtube.com/@NoctuaDesign)
 
 ---
 
-## 🧩 Selected Experience
-
-- Built and maintained enterprise applications using .NET, SQL Server, Angular, and REST/SOAP integrations.
-- Supported high-volume web services handling 10M+ daily requests.
-- Worked on API gateway operations, logging, routing, and monitoring workflows.
-- Developed reporting and search-oriented systems using Elasticsearch and Logstash.
-- Contributed to enterprise GIS and monitoring systems using C#, ASP.NET MVC, AngularJS, jQuery, and ArcGIS technologies.
-- Led and contributed to multiple projects from initial requirements to production delivery.
-
----
-
-## 📌 What I'm Interested In
-
-- Developer tools
-- B2B SaaS products
-- API platforms
-- Observability and monitoring
-- DevOps automation
-- AI-assisted software development
-- Indie mobile games
-- Practical tools that solve real production problems
-
----
-
-## 🌐 Let's Connect
-
-- LinkedIn: [linkedin.com/in/orkunk](https://www.linkedin.com/in/orkunk/)
-- SaaS & Business: [orkun@gatewaylabs.net](mailto:orkun@gatewaylabs.net)
-- Apps & Games / Noctua Design: [info@noctua.design](mailto:info@noctua.design)
-- Website: [gatewaylabs.net](https://gatewaylabs.net)
-
----
-
-<!---
-Orkkoc/Orkkoc is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
---->
+<sub>Current work spans private commercial repositories and public releases. Product links above are the best place to follow what is shipping.</sub>
